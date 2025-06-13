@@ -32,7 +32,7 @@ package.json       # Project metadata and dependencies
 ### Installation
 
 ```bash
-git clone https://github.com/mohsen0071/social-media.git
+git clone https://github.com/mohsen0071/Nodejs-social-media-api.git
 cd social-media
 npm install
 ```
